@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "homeFirst11"
+    }
+  },
+  "defaultProject": "homeFirst11",
+  "cli": {
+    "analytics": false
+  }
 }
